@@ -1,2 +1,6 @@
 $ git config --global user.name "wizard-master"
 $ git config --global user.email "spooky.sparkle.wizard@gmail.com"
+
+$mkdir my-repo.git
+$ cd my-repo.git
+$ git clone https://github.com/wizard-master/my-repo.git
